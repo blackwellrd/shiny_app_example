@@ -121,7 +121,6 @@ server <- function(input, output, session) {
     })
     
   session$onSessionEnded(stopApp)
->>>>>>> ca9bdf47346b1d35fefaea297369fe707c032403
 }
 
 # Run the application 
